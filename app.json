@@ -1,11 +1,11 @@
 
 {
-  "name": "BWM-XMD",
+  "name": "DEEJARVIS",
   "description": "This is a simple whatsapp bot built with nodejs to make your WhatsApp enjoyable",
   "keywords": [
     "bot",
     "whatsapp",
-    "BWM-XMD",
+    "DEEJARVIS",
     "whatsapp-stickers",
     "anime",
     "whatsapp-bot",
@@ -21,11 +21,11 @@
   "success_url": "/",
   "env": {
     "SESSION": {
-      "description": "Add your session id here",
+      "description": "XMDIAAAAAAAAA62Va5OiOBSG/0u+ao2Eu1Z11YaLirZ3RNut/RAgCMrNEASc8r9vYXfPdNXM9vZWLZ9CQk6ec/K+h+8gzaKCTEkDBt9BTqMrZqQdsiYnYAC0MggIBV3gY4bBACSmPQxlpsp5qDu1GR/P+qw3VGejy1mulNWcWt7JPsHy4HBP4N4FeenGkfdJwOthh6dWf927zfd0GXZm5c6f3E4rbV5X82rP6hlMmfosDE3rCdzbiDiiUXo085AkhOJ4SpoljujX8NFy3AmKYS0WY47deH5iHUJ5xykCMmG+P9Xb7FCOtBFEO+9r+Hu3pL1n4zyzUBzuO1NnZBNi82phPAcmzBFJy1HGdbQZesMvomNKfMsnKYtY8+W6W9osOCCvk6PlIpgl216OJ7w5qy7e/gXji5iZsjSf8JOxWXwNHJpVLemZPNGsTXWdG3xzrkeZH5LphXNNYzzcG25ST5y9sPoIvqTvWjn/l7pzZrhI6wKeCzt3+SsqzQNKhqdraHVMW27MZRSpsaSJ1vaL+OFFXZ+SlU+3+XqkTje5LYV7uO5FAt0uSzxb9XAnPGLHTdBPfMxK+hmlHawNOXMngWMv6nzFrVZ5PCeBUc36W6Ev27q+XkSxvWga9cJFvVnhxtKCFOf5Vjz0AqpL+7Ubl6aWP5fTtVVbV9NnevX0yOhMGssHA3jvAkqOUcEoZlGWPuYkpQuwf90QjxL2KC+A9MQ1JYRYWC9CeEoctLY6IeeWeV314VlmmWwotu45F+4JdEFOM48UBfHHUcEy2sxIUeAjKcDgz8dNtUlTkmSMTCIfDAAvCJIAoaBAWfqj+FaFmBU4z7+lhIEuCGiWzAgYMFqSLnhsQJIpmgYUFUlHfF+VVCSJypDrm6ogG0jT2xST10PtKCEFw0kOBlBROFnqS5Jw7/5fHJLO902D16CsDqGiqbLaR5qoa4bSR33zcw5Z/P84kDg0htDgRdEQOE2Akir2OUlTkAIhhJ9z9Pn7X12Qkpq9+qlVgQC7IIhowbZpmccZ9t/N9r6IPS8rU7ZpUk9vB4SCwYdpwliUHos2szLF1AujK9HbPMAgwHFBfgiPUOK/5/LWTPXMb/0wXFpzuEUH0LK3gX6pzUASfy1PituvgYGvUVETmtWgC+LHVigpnCJDAcK+3Je4dne7cP9B3R7iE4ajuAADoE9uZ/nsrRrKZzf08oI2CE0RagX+nuW7i19d4oz1+LBEiXBUY810Cr6JpN5tjp2tNlksZbd3eDmlRnlcwO3vgrSEfEovuxKrwsW5RfXaTVS6mu6FymKNihbUXtGds/Z13+ED7/BcFGK8sjeTCEmCvdvNDb9aHXT3ZG2sI7/PbydtyHZGa/ku8Mk18sjHw6JkdD5WegPFfm+vbxI3CHXfK7fQ2XJh53Yo8+exOs/HceIK02cqa7t0Ik9WnUVnXaHYwOeZNUJzTVcOmF2a015IvANCr/3l0d/it/9K9Ob86PEaROTRpt/u6V/v8xW8lR13736I8db4/6F5as66ynd2NWHicrJaD915kZWBetvFDtrYp07S43eWVCmZwRxwb/Wfx5gFGU3AABSJi0EX0KxsRWylQfbJSTriLPN4fPScGBcM/TTGb7wmcq9fLWmWj3ERthVYwpcwaFXeoDzfMMzefQZQ+0w3FNz/Bp5wjokaCQAA",
       "required": true
     },
     "OWNER_NUMBER": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces. Ex: 254712345678",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces. Ex: 233531137165",
       "required": true
     },
     "DATABASE_URL": {
@@ -59,7 +59,7 @@
     },
     "AUTHOR": {
       "description": "Bot author name",
-      "value": "Ibrahim Adams",
+      "value": "Davisxerox",
       "required": false
     },
     "DEVICE_MODE": {
